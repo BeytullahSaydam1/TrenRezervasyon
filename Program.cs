@@ -22,7 +22,7 @@ class Program
             KisilerFarkliVagonlaraYerlestirilebilir = true
         };
 
-        // API isteğini işle
+        
         APIResponse response = RezervasyonYap(request);
 
         // API Response'u ekrana yazdır

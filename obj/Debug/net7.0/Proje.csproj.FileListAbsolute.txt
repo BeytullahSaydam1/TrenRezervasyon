@@ -1,0 +1,15 @@
+C:\Users\Beytullah\Desktop\TrenRezervasyonAP\Proje\bin\Debug\net7.0\Proje.exe
+C:\Users\Beytullah\Desktop\TrenRezervasyonAP\Proje\bin\Debug\net7.0\Proje.deps.json
+C:\Users\Beytullah\Desktop\TrenRezervasyonAP\Proje\bin\Debug\net7.0\Proje.runtimeconfig.json
+C:\Users\Beytullah\Desktop\TrenRezervasyonAP\Proje\bin\Debug\net7.0\Proje.dll
+C:\Users\Beytullah\Desktop\TrenRezervasyonAP\Proje\bin\Debug\net7.0\Proje.pdb
+C:\Users\Beytullah\Desktop\TrenRezervasyonAP\Proje\obj\Debug\net7.0\Proje.csproj.AssemblyReference.cache
+C:\Users\Beytullah\Desktop\TrenRezervasyonAP\Proje\obj\Debug\net7.0\Proje.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Beytullah\Desktop\TrenRezervasyonAP\Proje\obj\Debug\net7.0\Proje.AssemblyInfoInputs.cache
+C:\Users\Beytullah\Desktop\TrenRezervasyonAP\Proje\obj\Debug\net7.0\Proje.AssemblyInfo.cs
+C:\Users\Beytullah\Desktop\TrenRezervasyonAP\Proje\obj\Debug\net7.0\Proje.csproj.CoreCompileInputs.cache
+C:\Users\Beytullah\Desktop\TrenRezervasyonAP\Proje\obj\Debug\net7.0\Proje.dll
+C:\Users\Beytullah\Desktop\TrenRezervasyonAP\Proje\obj\Debug\net7.0\refint\Proje.dll
+C:\Users\Beytullah\Desktop\TrenRezervasyonAP\Proje\obj\Debug\net7.0\Proje.pdb
+C:\Users\Beytullah\Desktop\TrenRezervasyonAP\Proje\obj\Debug\net7.0\Proje.genruntimeconfig.cache
+C:\Users\Beytullah\Desktop\TrenRezervasyonAP\Proje\obj\Debug\net7.0\ref\Proje.dll

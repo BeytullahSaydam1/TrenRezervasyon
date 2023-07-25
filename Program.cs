@@ -5,7 +5,7 @@ class Program
 {
     static void Main()
     {
-        // API Request örneği
+     
         var request = new APIRequest
         {
             Tren = new Tren
@@ -25,7 +25,7 @@ class Program
         
         APIResponse response = RezervasyonYap(request);
 
-        // API Response'u ekrana yazdır
+     
         Console.WriteLine("Rezervasyon Yapilabilir: " + response.RezervasyonYapilabilir);
         if (response.RezervasyonYapilabilir)
         {
@@ -46,7 +46,7 @@ class Program
         {
             int kalanKapasite = vagon.Kapasite - vagon.DoluKoltukAdet;
 
-            // Yüzde 70 doluluk kuralı
+           
             double yuzdeDolulukOrani = (double)(vagon.DoluKoltukAdet + request.RezervasyonYapilacakKisiSayisi) / vagon.Kapasite;
             if (yuzdeDolulukOrani <= 0.7 && kalanKapasite >= request.RezervasyonYapilacakKisiSayisi)
             {
@@ -71,7 +71,6 @@ class Program
     }
 }
 
-// API Request ve Response için sınıflar
 class APIRequest
 {
     public required Tren Tren { get; set; }
